@@ -13,3 +13,4 @@ https://pngtree.com/free-png png
 http://colormind.io/
 https://michalsnik.github.io/aos/
 https://kenwheeler.github.io/slick/?fbclid=IwAR0x924tlL7plch8r3zYcYOzuLb9i1cjotloGyq2f_VIsN9iVO5DXuCUyMY
+https://www.npmjs.com/package/react-image-gallery?fbclid=IwAR2TPRnJ2K6OE3c3C34QZyFkdF1iicP-3Ym4D_QfMoGA8rIV7doSuW0QjPU
