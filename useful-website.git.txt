@@ -16,7 +16,7 @@ https://kenwheeler.github.io/slick/?fbclid=IwAR0x924tlL7plch8r3zYcYOzuLb9i1cjotl
 https://www.npmjs.com/package/react-image-gallery?fbclid=IwAR2TPRnJ2K6OE3c3C34QZyFkdF1iicP-3Ym4D_QfMoGA8rIV7doSuW0QjPU
 https://codesandbox.io/s/react-easy-crop-custom-image-demo-y09komm059?from-embed=&file=/src/index.js:872-929 corp
 https://www.npmjs.com/package/react-easy-crop corp
-
+https://www.npmjs.com/package/react-phone-input-2 tel
 
     let user_collection = require("./api/models/user");
     
