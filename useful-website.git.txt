@@ -30,3 +30,4 @@ https://www.npmjs.com/package/react-phone-input-2 tel
 https://codepen.io/cornetespoir/pen/QaVXob
 https://docs.mongodb.com/manual/reference/operator/update/positional/
 https://stackoverflow.com/questions/15691224/mongoose-update-values-in-array-of-objects
+https://stackoverflow.com/questions/19222520/populate-nested-array-in-mongoose nested populate
