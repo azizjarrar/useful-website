@@ -34,3 +34,10 @@ https://stackoverflow.com/questions/19222520/populate-nested-array-in-mongoose n
 
 https://tobiasahlin.com/spinkit/
 https://projects.lukehaas.me/css-loaders/
+
+https://docs.mongodb.com/manual/reference/operator/query/and/ and mongo
+
+
+logding animation
+https://tobiasahlin.com/spinkit/
+https://projects.lukehaas.me/css-loaders/
