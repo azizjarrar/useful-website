@@ -37,7 +37,7 @@ https://projects.lukehaas.me/css-loaders/
 
 https://docs.mongodb.com/manual/reference/operator/query/and/ and mongo
 
-
+https://9elements.github.io/fancy-border-radius/full-control.html#82.76.75.88-70.40.88.90-.
 logding animation
 https://tobiasahlin.com/spinkit/
 https://projects.lukehaas.me/css-loaders/
